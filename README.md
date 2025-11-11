@@ -3,7 +3,6 @@
 <div align="center">
 
 ![TerraLens Logo](https://img.shields.io/badge/TerraLens-SIH2025-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
 
@@ -675,26 +674,6 @@ Complete API documentation is available at `/api/docs` when running the server.
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](./docs/images/dashboard.png)
-*Main dashboard showing project overview and recent activity*
-
-### Map Viewer
-![Map Viewer](./docs/images/map-viewer.png)
-*Interactive map interface with multi-layer support*
-
-### Change Detection Results
-![Change Detection](./docs/images/change-detection.png)
-*Visualization of detected land cover changes*
-
-### Analytics Dashboard
-![Analytics](./docs/images/analytics.png)
-*Statistical analysis and trend visualization*
-
----
-
 ## 🗺️ Roadmap
 
 ### Phase 1: Core Development (Completed)
@@ -801,30 +780,10 @@ def calculate_ndvi(red_band: np.ndarray, nir_band: np.ndarray) -> np.ndarray:
 
 ---
 
-## 👥 Team
-
-### Development Team
-
-| Name | Role | GitHub | LinkedIn |
-|------|------|--------|----------|
-| [Team Member 1] | Team Leader / Full Stack Developer | [@username1](https://github.com/username1) | [Profile](https://linkedin.com) |
-| [Team Member 2] | Backend Developer / ML Engineer | [@username2](https://github.com/username2) | [Profile](https://linkedin.com) |
-| [Team Member 3] | Frontend Developer / UI/UX Designer | [@username3](https://github.com/username3) | [Profile](https://linkedin.com) |
-| [Team Member 4] | Data Scientist / Geospatial Analyst | [@username4](https://github.com/username4) | [Profile](https://linkedin.com) |
-| [Team Member 5] | DevOps Engineer / Database Admin | [@username5](https://github.com/username5) | [Profile](https://linkedin.com) |
-| [Team Member 6] | QA Engineer / Documentation | [@username6](https://github.com/username6) | [Profile](https://linkedin.com) |
-
-### Mentors & Advisors
-
-- **Project Mentor**: [Mentor Name] - [Designation]
-- **Technical Advisor**: [Advisor Name] - [Organization]
-
----
 
 ## 🙏 Acknowledgments
 
-- **Smart India Hackathon 2025** - For providing the platform and opportunity
-- **[Issuing Organization]** - For the problem statement and guidance
+- **Smart India Hackathon 2025** - For the problem statement and guidance
 - **Open Source Community** - For amazing libraries and tools:
   - [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite imagery access
   - [Google Earth Engine](https://earthengine.google.com/) - Geospatial analysis platform
@@ -873,17 +832,9 @@ SOFTWARE.
 
 ## 📞 Contact
 
-### Project Repository
-- GitHub: [https://github.com/LoganthP/TerraLens-SIH2025](https://github.com/LoganthP/TerraLens-SIH2025)
-
-### Team Contact
 - Email: terralens.sih2025@gmail.com
 - Website: [https://terralens-sih2025.netlify.app](https://terralens-sih2025.netlify.app)
 - Documentation: [https://docs.terralens-sih2025.com](https://docs.terralens-sih2025.com)
-
-### Social Media
-- Twitter: [@TerraLensSIH](https://twitter.com/TerraLensSIH)
-- LinkedIn: [TerraLens SIH 2025](https://linkedin.com/company/terralens-sih2025)
 
 ---
 
